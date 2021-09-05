@@ -58,12 +58,10 @@ Hi, i'm [Arman Hassan](https://armanhassan.tk/), a passionate self-taught full s
 <img align="left" alt="HTML" width="40px" src="https://user-images.githubusercontent.com/32613227/132136820-4bcc43e3-4abb-422d-b806-fe23064abdb2.png">
 <img align="left" alt="CSS" width="40px" src="https://user-images.githubusercontent.com/32613227/132136928-f98e9b7b-5dc2-48df-ad01-3b63355507fd.png">
 
-<br/><br/>
+<br/><br/><br/>
 
 
-📫 How to reach me:
-<br>
-
+📫 **How to reach me**
 - Email: [armanhassan504@gmail.com](armanhassan504@gmail.com)
 - Website: [https://armanhassan.tk](https://armanhassan.tk)
 - Linkedin: [https://www.linkedin.com/in/armanhassan504](https://www.linkedin.com/in/armanhassan504/)
