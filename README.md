@@ -51,7 +51,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <img align="left" alt="git" width="40px" src="https://user-images.githubusercontent.com/32613227/132136692-2a5aa2a6-2445-4c1b-b4e4-26c2688bb7db.png">
 <img align="left" alt="MYSQL" width="40px" src="https://user-images.githubusercontent.com/32613227/132136730-c96101a6-063a-4f4f-bf79-48446f80b277.png">
 <img align="left" alt="HTML" width="40px" src="https://user-images.githubusercontent.com/32613227/132136820-4bcc43e3-4abb-422d-b806-fe23064abdb2.png">
-<img align="left" alt="CSS" width="40px" src="https://user-images.githubusercontent.com/32613227/132136898-dffb9e2b-d622-4fc6-96a5-8c1929147aaf.png">
+<img align="left" alt="CSS" width="40px" src="https://user-images.githubusercontent.com/32613227/132136928-f98e9b7b-5dc2-48df-ad01-3b63355507fd.png">
 
 <br/><br/>
 
