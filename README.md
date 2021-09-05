@@ -48,8 +48,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <img align="left" alt="Postman Api" width="40px" src="https://user-images.githubusercontent.com/32613227/132136624-dced0099-72f1-4d8f-bb50-d6e2aa70c02a.png"/>
 <img align="left" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
-<img align="left" alt="git" width="55px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+<img align="left" alt="git" width="40px" src="https://user-images.githubusercontent.com/32613227/132136692-2a5aa2a6-2445-4c1b-b4e4-26c2688bb7db.png">
+<img align="left" alt="MYSQL" width="40px" src="https://user-images.githubusercontent.com/32613227/132136730-c96101a6-063a-4f4f-bf79-48446f80b277.png">
 
 <br/><br/>
 
