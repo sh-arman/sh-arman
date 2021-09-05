@@ -15,7 +15,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 
 <img align="left" alt="PHP" width="50px" src="https://user-images.githubusercontent.com/32613227/132130635-0500de8c-fff0-4a1f-9e87-72718f70b792.png"/>
-<img align="left" title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<!-- <img align="left" title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> -->
 <img align="left" alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
 <!-- <img align="left" title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"> -->
 
@@ -50,6 +50,8 @@ These are some of the major technologies that I use or have worked on in the pas
 <img align="left" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
 <img align="left" alt="git" width="40px" src="https://user-images.githubusercontent.com/32613227/132136692-2a5aa2a6-2445-4c1b-b4e4-26c2688bb7db.png">
 <img align="left" alt="MYSQL" width="40px" src="https://user-images.githubusercontent.com/32613227/132136730-c96101a6-063a-4f4f-bf79-48446f80b277.png">
+<img align="left" alt="HTML" width="40px" src="https://user-images.githubusercontent.com/32613227/132136820-4bcc43e3-4abb-422d-b806-fe23064abdb2.png">
+<img align="left" alt="CSS" width="40px" src="https://user-images.githubusercontent.com/32613227/132136898-dffb9e2b-d622-4fc6-96a5-8c1929147aaf.png">
 
 <br/><br/>
 
