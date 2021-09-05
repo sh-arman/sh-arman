@@ -1,4 +1,3 @@
-###
 <h1>Bonjour! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"></h1>
 
 <!-- **sh-arman/sh-arman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -20,6 +19,7 @@ Hi, i'm [Arman Hassan](https://armanhassan.tk/), a passionate self-taught full s
 <img align="left" alt="PHP" width="50px" src="https://user-images.githubusercontent.com/32613227/132130635-0500de8c-fff0-4a1f-9e87-72718f70b792.png"/>
 <!-- <img align="left" title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> -->
 <img align="left" alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
+<img align="left" alt="JS" title="C" width="40px" src="https://user-images.githubusercontent.com/32613227/132137510-4bd77a32-7e4d-4a7b-ac91-a0814b7752f9.png">
 <!-- <img align="left" title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"> -->
 
 <br><br>
