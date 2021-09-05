@@ -17,7 +17,7 @@ hi, i'm [Arman Hassan](https://armanhassan.tk/), a passionate self-taught full s
   <img align="left" alt="MySQL" width="35px" src="https://user-images.githubusercontent.com/32613227/132130560-a21ecb9d-18c5-48a7-91b7-b07dc640ff5c.png"/>
   <img align="left" alt="github" width="35px" src="https://user-images.githubusercontent.com/32613227/132130581-85601af6-43df-4ac9-b8c9-720941e40f48.png" />
   <img align="left" alt="POSTMAN" width="45px" src="https://user-images.githubusercontent.com/32613227/132130809-15519803-5464-4802-bdb6-88370edf4234.png" />
-  <br>
+  <br><br><hr>
 
 ### 📫 How to reach me:
 
