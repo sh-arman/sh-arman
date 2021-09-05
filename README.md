@@ -28,6 +28,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <img align="left" alt="jQuery" width="35px" src="https://user-images.githubusercontent.com/32613227/132136455-2695a213-e93b-4e25-8f10-24d13e661690.png"/>
 <img align="left" alt="Laravel" width="35px" src="https://user-images.githubusercontent.com/32613227/132130368-4aad91e7-6c50-4d64-953f-db2bc236cb00.png"/>
 <img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img align="left" alt="Node.js" width="35px" src="https://user-images.githubusercontent.com/32613227/132137010-fb22d951-583e-4036-ac1c-6cd890034151.png"/>
 
 <br><br>
 <!-- <img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png"> -->
