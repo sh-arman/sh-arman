@@ -2,10 +2,10 @@
 
 <!-- **sh-arman/sh-arman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Hi, i'm [Arman Hassan](https://armanhassan.tk/), a passionate self-taught full stack web developer and a software engineer from Dhaka Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Arman Hasan]([https://armanhassan.tk/](https://www.linkedin.com/in/armanhasan98/)), a passionate self-taught full stack web developer and a software engineer from Dhaka Bangladesh. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 <br/>
  
-💬 ask me about anything, i am happy to help - (*Such help much wow* :wink: )
+💬 ask me about anything, and I am happy to help - (*Such help much wow* :wink: )
 
 🛠 These are some of the major technologies that I use or have worked on in the past:
 
@@ -63,7 +63,6 @@ Hi, i'm [Arman Hassan](https://armanhassan.tk/), a passionate self-taught full s
 
 📫 **How to reach me**
 - Email: [armanhassan504@gmail.com](armanhassan504@gmail.com)
-- Website: [https://armanhassan.tk](https://armanhassan.tk)
-- Linkedin: [https://www.linkedin.com/in/armanhassan504](https://www.linkedin.com/in/armanhassan504/)
+- Linkedin: [https://www.linkedin.com/in/armanhasan98](https://www.linkedin.com/in/armanhasan98/)
 - Gitlab: [https://gitlab.com/armanhassan504](https://gitlab.com/armanhassan504)
 
